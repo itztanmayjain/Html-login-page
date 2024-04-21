@@ -12,4 +12,6 @@ This project is a simple login page with a slider that allows users to switch be
 - Slider functionality allows users to seamlessly switch between sign-in and sign-up forms.
 - Basic form validation ensures that required fields are not left empty.
 
+## Authors
+ [Tanmay Jain](https://github.com/itztanmayjain)
   
